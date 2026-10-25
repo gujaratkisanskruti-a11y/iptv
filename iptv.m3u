@@ -14,9 +14,6 @@ http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
 http://dayro.valamtv.in/hls/shree/bhattji.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/sri_shyam_tv.jpg",SRI SHYAm.
 https://cloudcdn.in/live/shreeshyamtv/index.m3u8
-
-
-
 XTINF:-1 tvg-id="custom.picture.hd" tvg-name="& Picture" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/and-pictures.png" tvg-chno="1142" channel-id="custom.picture.hd" group-title="Indian Movies",& Picture
 https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-kadak.png" tvg-chno="308" channel-id="B4UKadak.in@SD" tvg-language="hin" tvg-country="IN" group-title="Indian Movies",B4U Kadak

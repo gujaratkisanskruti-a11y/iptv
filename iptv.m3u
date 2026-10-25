@@ -14,8 +14,7 @@ http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
 http://dayro.valamtv.in/hls/shree/bhattji.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/sri_shyam_tv.jpg",SRI SHYAm.
 https://cloudcdn.in/live/shreeshyamtv/index.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-bangla.png" tvg-chno="3" channel-id="ATNBangla.bd" tvg-country="BD" tvg-language="ben" group-title="Bangladesh",ATN Bangla
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
+
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN Bangla UK" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/atn-bangla-uk.svg" tvg-chno="7" channel-id="ATNBanglaUK.uk" tvg-language="ben" tvg-country="GB" group-title="Bangladesh",ATN Bangla UK
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nvisionbd-verified-atn-news-e0442addb4.png" tvg-chno="4" channel-id="ATNNews.bd" tvg-language="ben" tvg-country="BD" group-title="Bangladesh",ATN News

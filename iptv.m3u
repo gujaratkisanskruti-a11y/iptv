@@ -2124,7 +2124,5 @@ https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-id="custom.star.sports.select.2" tvg-name="Star Sports Select 2" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-sports-select-2.png" tvg-chno="1139" channel-id="custom.star.sports.select.2" group-title="Not Playing",Star Sports Select 2
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ThikanaTV.us" tvg-name="Thikana" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/thikana.png" tvg-chno="224" channel-id="ThikanaTV.us" group-title="Not Playing",Thikana
-https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8
-#EXTINF:-1 tvg-id="custom.tvc.arabic.kids" tvg-name="TVC Arabic Kids" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/generated-fallback-tvc-arabic-kids.svg" tvg-chno="1182" channel-id="custom.tvc.arabic.kids" group-title="Not Playing",TVC Arabic Kids
+vg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/generated-fallback-tvc-arabic-kids.svg" tvg-chno="1182" channel-id="custom.tvc.arabic.kids" group-title="Not Playing",TVC Arabic Kids
 https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8
